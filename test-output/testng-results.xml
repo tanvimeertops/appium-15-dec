@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-04-13T09:02:18 IST" name="Default suite" finished-at="2026-04-13T09:02:49 IST" duration-ms="30253">
+  <suite started-at="2026-04-15T09:06:18 IST" name="Default suite" finished-at="2026-04-15T09:06:45 IST" duration-ms="27746">
     <groups>
     </groups>
-    <test started-at="2026-04-13T09:02:18 IST" name="Default test" finished-at="2026-04-13T09:02:49 IST" duration-ms="30253">
-      <class name="com.mvn.ScrollDemo">
-        <test-method is-config="true" signature="test()[pri:0, instance:com.mvn.ScrollDemo@6c64cb25]" started-at="2026-04-13T09:02:18 IST" name="test" finished-at="2026-04-13T09:02:37 IST" duration-ms="18245" status="PASS">
+    <test started-at="2026-04-15T09:06:18 IST" name="Default test" finished-at="2026-04-15T09:06:45 IST" duration-ms="27746">
+      <class name="com.mvn.LongPress">
+        <test-method is-config="true" signature="test()[pri:0, instance:com.mvn.LongPress@2d7275fc]" started-at="2026-04-15T09:06:18 IST" name="test" finished-at="2026-04-15T09:06:31 IST" duration-ms="13374" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method signature="scroll()[pri:0, instance:com.mvn.ScrollDemo@6c64cb25]" started-at="2026-04-13T09:02:37 IST" name="scroll" finished-at="2026-04-13T09:02:49 IST" duration-ms="11950" status="PASS">
+        <test-method signature="lp()[pri:0, instance:com.mvn.LongPress@2d7275fc]" started-at="2026-04-15T09:06:31 IST" name="lp" finished-at="2026-04-15T09:06:45 IST" duration-ms="14294" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- scroll -->
-      </class> <!-- com.mvn.ScrollDemo -->
+        </test-method> <!-- lp -->
+      </class> <!-- com.mvn.LongPress -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

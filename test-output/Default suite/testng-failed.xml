@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.mvn.BaseClass">
+      <class name="com.mvn.LongPress">
         <methods>
           <include name="test"/>
+          <include name="lp"/>
         </methods>
-      </class> <!-- com.mvn.BaseClass -->
+      </class> <!-- com.mvn.LongPress -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
